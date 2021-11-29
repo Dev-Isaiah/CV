@@ -1,0 +1,23 @@
+.checked {
+  color: blue;
+}
+
+body {
+  background-color: #EFEFEF;
+}
+
+hr {
+  border: none;
+  background-color: transparent;
+  border-bottom: 10px dotted #A7BBC7;
+  width: 50%;
+}
+
+h1 {
+  color: #32C1CD;
+
+}
+
+h3 {
+  color: #32C1CD;
+}
