@@ -7,4 +7,4 @@ CV Website with a little info about me!
  - [x] HTML
 
 ## Completed Project Link:
-https://devart1st.github.io/CV/
+https://dev-isaiah.github.io/CV/
